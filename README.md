@@ -1,1 +1,3 @@
-# roblox-suda-room-kakao
+# 안녕하세요? 
+로블록스 수다방 웹사이트 서버 입니다.
+From Github
